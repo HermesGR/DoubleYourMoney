@@ -4,10 +4,7 @@
 #EXTINF:1, [B][COLOR red]Double Your Money Tip of The Day[/B][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [COLOR blue](B)PHILIPPINES: Governors Cup[/COLOR]
-plugin://plugin.video.youtube/?action=play_video&videoid=
-
-#EXTINF:1, [COLOR blue](B) Alaska Aces vs Star Hotshots Tip = 1 (odd 2.55)[/COLOR]
+#EXTINF:1, [COLOR blue]- - - - -[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
 
