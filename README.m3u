@@ -4,6 +4,5 @@
 #EXTINF:1, [B][COLOR red]Double Your Money Tip of The Day[/B][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [COLOR blue](S)Sporting vs Olympiakos = G/G (Odd 1.95)[/COLOR]
+#EXTINF:1, [COLOR blue](S)Locomotiv Moscow vs FC Copenhagen = 1 (Odd 1.90)[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
-
