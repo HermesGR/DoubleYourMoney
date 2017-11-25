@@ -4,5 +4,5 @@
 #EXTINF:1, [B][COLOR red]Double Your Money Tip of The Day[/B][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [COLOR blue](S) West Ham vs Leicester = 1 (Odd 2.80)[/COLOR]
+#EXTINF:1, [COLOR blue]( ) ------------- = ------- (Odd ---)[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
